@@ -9,14 +9,14 @@
 
 ### Thinking and Decision Making:
 
-- I'm a "slow thinker" and like to have time to digest information and discuss options with others. I can make snap decisions, but I'm always a little wary of them. On the flipside, I do usual come to a point where I realize that there might be no right answer and I just have to choose the least-bad option.
+- I'm a "slow thinker" and like to have time to digest information and discuss options with others. I can make snap decisions, but I'm always a little wary of them. On the flipside, I do usually arrive at a point where I realize that there might be no right answer and I just have to choose the least-bad option.
 - I require clear direction, a desired outcome, and some parameters and constraints to do great work.
 
 ### Collaboration:
 
 - I value an environment where people feel free to ask simple questions that may seem obvious to some. I find it's very good to strip away assumptions and free people from anxiety around being in the dark or unclear about things.
-- I love the freedom to put forth a potentially bad idea. I've seen so-called Bad Ideas turn out to work, in some form. Either way, they can sometimes egenrate a productive conversation and engage a team.
-- Please provide feedback directly, respectfully, and constructively to help me improve. I'm extremely self-critical, so it's likely I will be blindsinded by something you've noticed that I need help with. If you have a perspective and/or suggestions to help me progress, that's always welcome.
+- I love the freedom to put forth a potentially bad idea. I've seen so-called Bad Ideas turn out to work, in some form. Either way, they can sometimes generate a productive conversation and engage a team.
+- Please provide feedback directly, respectfully, and constructively to help me improve. I'm extremely self-critical, so it's likely I won't be completely blindsinded by something you've noticed that I need help with. If you have a perspective and/or suggestions to help me progress, that's always welcome.
 
 ### What to Avoid:
 
