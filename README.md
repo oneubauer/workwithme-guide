@@ -2,7 +2,7 @@
 
 ### Communication:
 
-- I prefer to start conversations by getting right to the point, I tend top be very direct. That said, I'm happy to make a connection if it is genuine.
+- I prefer to start conversations by getting right to the point, I tend to be very direct. That said, I'm happy to make a connection if it is genuine.
 - I enjoy text-based chat as it allows me to respond asynchronously while still keeping a record of any details.
 - A Zoom chat can be instrumental in quickly getting a lot of ideas on the table, especially when discussing a new topic that either party is unfamiliar with.
 - I don't mind emojis and gifs, but I use them sparingly.
@@ -20,9 +20,10 @@
 
 ### What to Avoid:
 
-- Bureaucracy, yak shaving, and micro-managing can be frustrating and hinder productivity. If it's serious and not self-aware or done without a sense of humour and tolerance, smug nitpicking drives me crazy.
-- I'm not a big fan of discussing process overmuch (ie team retros etc) especially if there isn't a perceived problem to be solved. 
-
+- I thrive in streamlined, efficient environments that cut back on unnecessary bureaucracy. Minimal "yak shaving" - extraneous peripheral tasks - allows me to stay focused on the project at hand.
+- I appreciate a balance between autonomy and supervision. While guidance can be beneficial, excessive micromanagement can potentially inhibit my productivity and creativity.
+- A respectful, constructive work culture is vital to me. I prefer to avoid overly critical or negative exchanges that lack constructive purpose.
+- While I appreciate and respect structured processes, I find that extensive discussions about them (such as endless team retros) may sometimes detract from problem-solving and project advancement. I believe in addressing process issues when they present a clear obstacle to our work.
 
 
 I'm looking forward to working with you and creating something amazing together!
